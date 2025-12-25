@@ -11,7 +11,7 @@
   --text-color: #f1b2ce;
   --title-text-color: #000028;
   --opacity-color: rgba(255, 0, 112, 0.4);
-  --font-family: "IBM Plex mono", sans-serif;
+  --font-family: "IBM Plex mono", monospace;
   --fntwght-norm: normal;
   --fntwght-bold: bold;
 }
